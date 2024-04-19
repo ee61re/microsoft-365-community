@@ -166,7 +166,7 @@ Processes measured and controlled
 - There are staff with a role that includes monitoring regulatory updates and translating them into new company policies. In large organizations or those in industries with strong compliance needs, example roles may include Director of Compliance, General Counsel, Senior Information Risk Officer, Data Protection Officer). In smaller organizations it is likely to sit with members of the executive team or the functional head of departments with strong compliance alignment. This is in addition to staff dedicated to security measures (for example a Chief Information Security Officer).
 - The organization measures and assesses controls and activity, but largely at an individual or devolved level.
 - Risk level is periodically reviewed & updated.
-- Limited information and records available for audit, these are generally specific to the function rather than providing an aggregated or holistic vie.
+- Limited information and records available for audit, these are generally specific to the function rather than providing an aggregated or holistic view.
 - There is limited or misplaced confidence that all governance and compliance risks are known and managed.
 - There are systems, tools and processes for managing the Governance, Risk and Compliance processes. While these vary according to the standards and requirements imposed, they may include: training and knowledge content; risk, issue and status logs; asset and impact lists; action plans; processes for reviews and updates; systematic audits and assessments, staff training and competency logs.
 - Strong content management tools and processes that include effective lifecycle management are in place.
